@@ -1,0 +1,4 @@
+F:\ASPX\Module1\WindowsFormsApplication1\MyclassLibrary1\bin\Debug\MyclassLibrary1.dll
+F:\ASPX\Module1\WindowsFormsApplication1\MyclassLibrary1\bin\Debug\MyclassLibrary1.pdb
+F:\ASPX\Module1\WindowsFormsApplication1\MyclassLibrary1\obj\Debug\MyclassLibrary1.dll
+F:\ASPX\Module1\WindowsFormsApplication1\MyclassLibrary1\obj\Debug\MyclassLibrary1.pdb
